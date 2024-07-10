@@ -26,12 +26,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"  width="40" height="40" alt="Maven" />
 </a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="hIBERNATE" />  
-</a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="HIBERNATE" />  
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">         
            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40" alt="mySql"  />
           
 </a>
 </p>
