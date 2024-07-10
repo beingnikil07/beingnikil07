@@ -31,6 +31,5 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">         
            
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40" alt="mySql"  />
-          
 </a>
 </p>
