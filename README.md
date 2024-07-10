@@ -12,7 +12,7 @@
 - 📫 How to reach me **kumarnikil220@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" margin-left="40px">
 <a href="https://twitter.com/being_nikhil07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="being_nikhil07" height="30" width="40" /></a>
 <a href="https://instagram.com/being_nikhil07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being_nikhil07" height="30" width="40" /></a>
 </p>
@@ -29,7 +29,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="HIBERNATE" />  
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">         
-           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40" alt="mySql"  />
+            <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40" height="40"/>
 </a>
 </p>
